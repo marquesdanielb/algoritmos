@@ -1,6 +1,6 @@
 <h2>Algortimo de pesquisa binária</h2>
 
-<h3>Sobre o que é este repositório?<h3>
+<h3>Sobre o que é este repositório?</h3>
 <p>
 Eu decidi criar esse repositório para sanar e exemplificar algumas dúvidas quanto ao tema de algoritmos. Por esse motivo começarei com um algortimo de pesquisa binária.
 </p>
