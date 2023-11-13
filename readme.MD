@@ -8,7 +8,7 @@ Eu decidi criar esse repositório para sanar e exemplificar algumas dúvidas qua
 Todos os exemplos desse repositório serão em python3. No futuro irei avançar em direção a outras linguagens porém escolhi python pela facilidade de compreensão dos algoritmos aqui demonstrados.
 </p>
 
-<h3>Então o que seria uma pesquisa binária?<h3>
+<h3>Então o que seria uma pesquisa binária?</h3>
 <p>
 Imagina que eu peça para você pensar em um número de 1 até 100 e somente me falar se o chute que eu estou falando é alto ou baixo. Eu poderia chutar todos os números de 1 até 100 sendo assim, se começarmos a chutar com o número 1 e o número pensado por você for o 100 nós teríamos que percorrer essa lista de números inteira para achar o seu número pensado.
 </p>
